@@ -1,0 +1,54 @@
+
+[
+    {
+        "name": "Samsung Odyssey G5",
+        "price": "145 000 ₸",
+        "size": "27 дюйм",
+        "resolution": "2560x1440",
+        "frequency": "144 Hz",
+        "type": "VA"
+    },
+    {
+        "name": "LG UltraGear",
+        "price": "185 000 ₸",
+        "size": "27 дюйм",
+        "resolution": "2560x1440",
+        "frequency": "165 Hz",
+        "type": "IPS"
+    },
+    {
+        "name": "ASUS TUF Gaming",
+        "price": "210 000 ₸",
+        "size": "27 дюйм",
+        "resolution": "4K UHD",
+        "frequency": "144 Hz",
+        "type": "IPS"
+    }
+]
+
+[
+    {
+        "name": "Samsung Odyssey G5",
+        "price": "145 000 ₸",
+        "size": "27 дюйм",
+        "resolution": "2560x1440",
+        "frequency": "144 Hz",
+        "type": "VA"
+    },
+    {
+        "name": "LG UltraGear",
+        "price": "185 000 ₸",
+        "size": "27 дюйм",
+        "resolution": "2560x1440",
+        "frequency": "165 Hz",
+        "type": "IPS"
+    },
+    {
+        "name": "ASUS TUF Gaming",
+        "price": "210 000 ₸",
+        "size": "27 дюйм",
+        "resolution": "4K UHD",
+        "frequency": "144 Hz",
+        "type": "IPS"
+    }
+]
